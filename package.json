@@ -1,0 +1,29 @@
+{
+  "name": "react_express_starter",
+  "version": "1.0.0",
+  "description": "React_Express_Starter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niyatihd/react_express_starter.git"
+  },
+  "author": "Niyati Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niyatihd/react_express_starter/issues"
+  },
+  "homepage": "https://github.com/Niyatihd/react_express_starter#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
